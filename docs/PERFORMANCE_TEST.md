@@ -107,11 +107,8 @@ AI 初始化完成后观察系统是否恢复稳定运行。
 
 各测试场景运行视频：
 
-- [正常状态](../videos/baseline.mp4)
 - [10 AI](../videos/ai_10.mp4)
-- [50 AI](../videos/ai_50.mp4)
 - [100 AI](../videos/ai_100.mp4)
-- [500 AI](../videos/ai_500.mp4)
 - [1000 AI](../videos/ai_1000.mp4)
 
 视频记录了：
