@@ -107,7 +107,7 @@ AI 初始化完成后观察系统是否恢复稳定运行。
 
 下图展示了 **AI 数量与各项性能指标之间的变化趋势**：
 
-![AI性能趋势](../images/ai_performance_trend.png)
+![AI性能趋势](../images/ai_performance_chart.png)
 
 从测试结果可以观察到：
 
