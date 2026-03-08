@@ -102,7 +102,7 @@
 
 ```
 docs/
-├── TEST_SUMMARY.md
+├── TEST_CASES.md
 ├── BUG_REPORT.md
 └── PERFORMANCE_TEST.md
 
