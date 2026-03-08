@@ -139,9 +139,10 @@ docs/
 ├── TEST_CASES.md 
 ├── BUG_REPORT.md 
 └── PERFORMANCE_TEST.md
+
 images/ 
 ├── ai_spawner_blueprint.png 
-├── ai_performance_trend.png
+├── ai_performance_chart.png
 
 ```
 
