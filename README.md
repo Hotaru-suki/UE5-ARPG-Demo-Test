@@ -11,9 +11,11 @@
 - **角色资源替换实验**
 
 相关扩展主要用于支撑兼容性验证、压力测试与系统依赖关系分析
-详细情况：[Jump功能扩展说明](docs/JUMP_EXTENSION.md)
-         [AI Stress Test构建说明](docs/AI_STRESS_SPAWNER.md)
-         [角色资源替换说明](docs/RESOURCE_REPLACEMENT.md)
+
+详细情况：
+-[Jump功能扩展说明](docs/JUMP_EXTENSION.md)
+-[AI Stress Test构建说明](docs/AI_STRESS_SPAWNER.md)
+-[角色资源替换说明](docs/RESOURCE_REPLACEMENT.md)
 
 本仓库主要展示 **游戏测试流程、测试用例设计、缺陷记录与性能测试结果**。
 
