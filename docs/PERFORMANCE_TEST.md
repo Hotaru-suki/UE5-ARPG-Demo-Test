@@ -39,7 +39,7 @@
 
 为了构造 AI 压力测试场景，实现了一个 **AI Stress Spawner（AI 批量生成器）**。
 
-详细说明：[AI Stress Spawner](docs/AI_STRESS_SPAWNER.md)
+详细说明：[AI Stress Spawner](AI_STRESS_SPAWNER.md)
 
 ---
 
