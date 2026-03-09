@@ -39,22 +39,7 @@
 
 为了构造 AI 压力测试场景，实现了一个 **AI Stress Spawner（AI 批量生成器）**。
 
-该工具可在游戏开始时自动生成指定数量的 AI，用于构建不同规模的测试场景。
-
-可配置参数：
-
-- **SpawnCount**：生成 AI 数量
-- **SpawnRadius**：AI 生成范围半径
-
-核心逻辑：
-
-`BeginPlay → ForLoop → 随机生成偏移坐标 → SpawnActor (NPC)`
-
-蓝图实现：
-
-![AI Stress Spawner](../images/ai_spawner_blueprint.png)
-
-通过该工具可以快速构建高密度 AI 场景，从而进行性能压力测试。
+详细说明：[AI Stress Spawner](docs/AI_STRESS_SPAWNER.md)
 
 ---
 
