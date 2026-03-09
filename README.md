@@ -10,7 +10,10 @@
 - **AI Stress Test 场景构建**
 - **角色资源替换实验**
 
-相关扩展主要用于支撑兼容性验证、压力测试与系统依赖关系分析，详见：[测试场景扩展说明](docs/TEST_SCENE_CONSTRUCTION.md)
+相关扩展主要用于支撑兼容性验证、压力测试与系统依赖关系分析
+详细情况：[Jump功能扩展说明](docs/JUMP_EXTENSION.md)
+         [AI Stress Test构建说明](docs/AI_STRESS_SPAWNER.md)
+         [角色资源替换说明](docs/RESOURCE_REPLACEMENT.md)
 
 本仓库主要展示 **游戏测试流程、测试用例设计、缺陷记录与性能测试结果**。
 
@@ -103,7 +106,9 @@ AI 数量测试梯度：
 - [测试用例集](docs/TEST_CASES.md)
 - [缺陷与风险记录](docs/BUG_REPORT.md)
 - [性能与压力测试报告](docs/PERFORMANCE_TEST.md)
-- [测试场景扩展说明](docs/TEST_SCENE_CONSTRUCTION.md)
+- [Jump功能扩展说明](docs/JUMP_EXTENSION.md)
+- [AI Stress Test构建说明](docs/AI_STRESS_SPAWNER.md)
+- [角色资源替换说明](docs/RESOURCE_REPLACEMENT.md)
 
 ---
 
@@ -114,7 +119,9 @@ docs/
 ├── TEST_CASES.md
 ├── BUG_REPORT.md
 ├── PERFORMANCE_TEST.md
-└── TEST_SCENE_CONSTRUCTION.md
+├── JUMP_EXTENSION.md
+├── AI_STRESS_SPAWNER.md
+└── RESOURCE_REPLACEMENT.md.md
 
 images/
 ├── ai_spawner_blueprint.png
