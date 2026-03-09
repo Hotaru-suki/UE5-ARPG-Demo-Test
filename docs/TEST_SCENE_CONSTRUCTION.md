@@ -41,6 +41,12 @@
 
 为了支撑性能与压力测试，我实现了一个 **AI Stress Spawner（AI 批量生成器）**，用于在游戏开始时自动生成指定数量的 AI，从而快速构造不同规模的战斗压力场景。
 
+蓝图实现：
+
+![AI Stress Spawner](../images/ai_spawner_blueprint.png)
+
+通过该工具可以快速构建高密度 AI 场景，从而进行性能压力测试。
+
 该扩展支持以下可配置参数：
 
 - **SpawnCount**：生成 AI 数量
@@ -58,8 +64,6 @@
 - FPS、Frame Time、Game Thread 与 GPU Time 的趋势分析
 
 相较于依赖关卡中手动摆放的固定敌人，AI Stress Spawner 提升了压力测试场景的可配置性、可重复性与测试效率，使性能测试具备更明确的实验条件。
-
-
 
 ---
 
