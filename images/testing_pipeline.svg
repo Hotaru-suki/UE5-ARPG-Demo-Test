@@ -1,0 +1,26 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="340" fill="#F8FAFC"/>
+  <text x="60" y="66" fill="#0F172A" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700">测试流程总览</text>
+  <rect x="60" y="110" width="200" height="150" rx="18" fill="#DBEAFE" stroke="#60A5FA"/>
+  <text x="88" y="155" fill="#1E3A8A" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">场景准备</text>
+  <text x="88" y="193" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">调整 AI 数量</text>
+  <text x="88" y="223" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">设置生成范围</text>
+  <path d="M280 185H345" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M336 176L352 185L336 194" stroke="#64748B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="360" y="110" width="200" height="150" rx="18" fill="#DCFCE7" stroke="#4ADE80"/>
+  <text x="388" y="155" fill="#166534" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">自动化启动</text>
+  <text x="388" y="193" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">运行 bat</text>
+  <text x="388" y="223" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">进入测试会话</text>
+  <path d="M580 185H645" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M636 176L652 185L636 194" stroke="#64748B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="660" y="110" width="200" height="150" rx="18" fill="#FEF3C7" stroke="#F59E0B"/>
+  <text x="688" y="155" fill="#92400E" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">行为触发</text>
+  <text x="688" y="193" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">进场景</text>
+  <text x="688" y="223" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">手动 BackSpace</text>
+  <path d="M880 185H945" stroke="#64748B" stroke-width="4" stroke-linecap="round"/>
+  <path d="M936 176L952 185L936 194" stroke="#64748B" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="960" y="110" width="180" height="150" rx="18" fill="#FCE7F3" stroke="#EC4899"/>
+  <text x="988" y="155" fill="#9D174D" font-size="24" font-family="Segoe UI, Arial, sans-serif" font-weight="700">产物输出</text>
+  <text x="988" y="193" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">csv</text>
+  <text x="988" y="223" fill="#1F2937" font-size="20" font-family="Segoe UI, Arial, sans-serif">summary/autotest</text>
+</svg>

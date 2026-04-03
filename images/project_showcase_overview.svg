@@ -1,0 +1,40 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#0B1220"/>
+  <rect x="40" y="40" width="1120" height="640" rx="28" fill="url(#bg)" stroke="#334155"/>
+  <text x="80" y="120" fill="#F8FAFC" font-size="42" font-family="Segoe UI, Arial, sans-serif" font-weight="700">UE5 ARPG Demo Test Showcase</text>
+  <text x="80" y="162" fill="#CBD5E1" font-size="22" font-family="Segoe UI, Arial, sans-serif">基于 UE5 ActionRPG 样例的测试扩展、性能压测与自动化产物展示</text>
+
+  <rect x="80" y="210" width="320" height="178" rx="20" fill="#111827" stroke="#475569"/>
+  <text x="108" y="255" fill="#93C5FD" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">测试覆盖</text>
+  <text x="108" y="298" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">玩法链路</text>
+  <text x="108" y="332" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">边界与异常</text>
+  <text x="108" y="366" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">AI 梯度压测</text>
+
+  <rect x="440" y="210" width="320" height="178" rx="20" fill="#111827" stroke="#475569"/>
+  <text x="468" y="255" fill="#86EFAC" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">新增扩展</text>
+  <text x="468" y="298" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">Jump 功能接入</text>
+  <text x="468" y="332" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">AI Stress Spawn</text>
+  <text x="468" y="366" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">资源替换实验</text>
+
+  <rect x="800" y="210" width="320" height="178" rx="20" fill="#111827" stroke="#475569"/>
+  <text x="828" y="255" fill="#FCA5A5" font-size="26" font-family="Segoe UI, Arial, sans-serif" font-weight="700">C++ 基础设施</text>
+  <text x="828" y="298" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">性能监控子系统</text>
+  <text x="828" y="332" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">自动化测试子系统</text>
+  <text x="828" y="366" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">关键链路埋点</text>
+
+  <rect x="80" y="438" width="1040" height="190" rx="20" fill="#0F172A" stroke="#475569"/>
+  <text x="108" y="485" fill="#FDE68A" font-size="28" font-family="Segoe UI, Arial, sans-serif" font-weight="700">代表性性能结果</text>
+  <text x="108" y="528" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">低负载：119.98 FPS，Peak AI 2</text>
+  <text x="108" y="562" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">中负载：116.34 FPS，Peak AI 65</text>
+  <text x="108" y="596" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">高负载：91.90 FPS，Peak AI 86，掉落对象显著累积</text>
+  <text x="600" y="528" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">重压：25.79 FPS，Peak AI 417</text>
+  <text x="600" y="562" fill="#E2E8F0" font-size="22" font-family="Segoe UI, Arial, sans-serif">极限过载：4.76 FPS，Peak AI 992</text>
+  <text x="600" y="596" fill="#94A3B8" font-size="20" font-family="Segoe UI, Arial, sans-serif">趋势图、summary、autotest 见 artifacts/perf-reports 与 images</text>
+
+  <defs>
+    <linearGradient id="bg" x1="40" y1="40" x2="1160" y2="680" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+  </defs>
+</svg>
