@@ -100,3 +100,5 @@
 完整代表性样本见：
 
 - [artifacts/perf-reports](../../artifacts/perf-reports)
+
+- 视频链接：https://www.bilibili.com/video/BV1KPwjzkEGS/
