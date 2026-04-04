@@ -4,7 +4,7 @@
 
 为观察外部角色资源接入后对现有动画系统、骨骼和战斗逻辑的影响，项目中进行了角色资源替换实验。
 
-视屏链接：https://www.bilibili.com/video/BV1onPQzeERE/
+视频链接：https://www.bilibili.com/video/BV1onPQzeERE/
 
 ## 实验目标
 
